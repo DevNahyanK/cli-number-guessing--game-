@@ -1,10 +1,13 @@
 {
   "name": "devnahyankcli-number-guessing--game-",
-  "version": "2.1.5",
+  "version": "2.2.5",
   "description": "This is cli based number guessing game",
   "main": "index.js",
   "type": "module", 
   "bin": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
