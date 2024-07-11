@@ -1,6 +1,6 @@
 {
   "name": "devnahyankcli-number-guessing--game-",
-  "version": "2.2.5",
+  "version": "2.2.6",
   "description": "This is cli based number guessing game",
   "main": "index.js",
   "type": "module", 
